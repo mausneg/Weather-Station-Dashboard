@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1062074136123",
+    "firebase_url": "https://weather-station-ced54-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "weather-station-ced54",
+    "storage_bucket": "weather-station-ced54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062074136123:android:398c11407fe098e49c8e1e",
+        "android_client_info": {
+          "package_name": "com.example.iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrP3bMRfXBhum-ragUzKJXGZRnJl27A6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
