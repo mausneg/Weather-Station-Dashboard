@@ -2,6 +2,7 @@ package com.example.weatherstation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.iot.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

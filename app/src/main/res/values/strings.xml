@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Weather Station</string>
+    <string name="app_name">IoT</string>
+    <string name="title_activity_main2">MainActivity2</string>
 </resources>
