@@ -39,6 +39,7 @@ import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 
 
+
 class MainActivity : ComponentActivity() {
     private val viewModel: WeatherViewModel by viewModels()
 
